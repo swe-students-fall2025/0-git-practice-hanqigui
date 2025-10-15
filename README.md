@@ -1,2 +1,9 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+<Little Project>
+
+I recently browsed a very interesting website:
+- **(https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website)**
+
+**Why I Choose**
+- **Clear Procedure**: It teaches newer from the zero with clear and understandable sequences to guide learners.
+- **MVP**: It starts from the min avaiable product and then gradually improve it.
+- **Authentic**: It creates by Mozilla and continues updates.
