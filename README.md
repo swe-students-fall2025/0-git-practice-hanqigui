@@ -7,3 +7,7 @@ I recently browsed a very interesting website:
 - **Clear Procedure**: It teaches newer from the zero with clear and understandable sequences to guide learners.
 - **MVP**: It starts from the min avaiable product and then gradually improve it.
 - **Authentic**: It creates by Mozilla and continues updates.
+
+
+**Comment by Max**
+I really like your sharing, it is really interesting!
